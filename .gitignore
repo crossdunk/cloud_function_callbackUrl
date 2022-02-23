@@ -1,0 +1,4 @@
+.env.yaml
+deploy.sh
+.idea/*
+vendor/*

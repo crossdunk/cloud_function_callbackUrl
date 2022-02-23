@@ -1,0 +1,5 @@
+使用cloud function
+
+製作webhook或是callback網址
+
+會將內容紀錄至logging及slack
